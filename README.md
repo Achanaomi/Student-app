@@ -1,2 +1,2 @@
 # Student-app
-student manager
+student manager that helps to manage students details
